@@ -1,0 +1,41 @@
+body
+{
+ font-family:tahoma;
+ background:#eee;  
+ 
+
+}
+
+ h2
+ {
+	 
+	color:red;  
+	 
+	 
+	 
+	 }
+ 
+	 .ust
+	 {
+		 
+		 background:cornflowerblue;  
+		 color:#fff;
+		 padding:6px; 
+		 font-weight:bold;  
+		 
+		 }
+		 
+		 
+		 ul li
+		 {
+			 
+			 list-style-type:none;
+			 border:1px solid #ddd;
+			 margin-top:10px; 
+			 background:#fff;
+			 padding:7px; 
+			 
+			 }
+		 
+		 
+		 
